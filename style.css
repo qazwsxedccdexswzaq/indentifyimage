@@ -1,0 +1,24 @@
+body
+{
+    color: white;
+    background: teal;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    font-family: monospace;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px black;
+}
+label{
+    font-family: cursive;
+    font-size: 22px;
+}
+#camera
+{
+    border: 2px dashed white;
+    width: 350px;
+    height: 300px;
+}
